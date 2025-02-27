@@ -20,4 +20,4 @@ The objective of this project is to be able to classify images of fish into one 
 
 NOTE: Since this is mostly for my personal use, I've slapped together some pretty barebones description/commenting so apologies if anyone else is reading this :)
 
-This repo inclues the project notebook, the dataset as well as two trained models which scored accuracies of ~99% and 97% respectively.
+This repo inclues the project notebook as well as two trained models which scored accuracies of ~99% and 97% respectively but NOT the data itself. You can go grab it off kaggle yourself
